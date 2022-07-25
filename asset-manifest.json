@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/desafio-contador/static/css/main.5eb6a874.css",
+    "main.js": "/desafio-contador/static/js/main.dfbe4b16.js",
+    "static/media/northern-forest.jpg": "/desafio-contador/static/media/northern-forest.879f0b5af85891962774.jpg",
+    "index.html": "/desafio-contador/index.html",
+    "main.5eb6a874.css.map": "/desafio-contador/static/css/main.5eb6a874.css.map",
+    "main.dfbe4b16.js.map": "/desafio-contador/static/js/main.dfbe4b16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eb6a874.css",
+    "static/js/main.dfbe4b16.js"
+  ]
+}
